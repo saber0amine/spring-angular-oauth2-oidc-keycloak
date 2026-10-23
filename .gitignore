@@ -1,0 +1,7 @@
+.idea/
+*.iml
+.vscode/
+target/
+node_modules/
+dist/
+.angular/
